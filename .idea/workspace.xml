@@ -5,25 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9381b76-0846-49af-a341-ebef1f5a296b" name="Changes" comment="sorting">
-      <change afterPath="$PROJECT_DIR$/src/FindAllMissNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/missingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindAllDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/findDuplicateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setMismatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCFirstAndlastElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LCFirstAndlastElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LCsmallestLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LCsmallestLetter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seaching2Darray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seaching2Darray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SearchInmountsain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SearchInmountsain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortedMatrixSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortedMatrixSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binarySEARCH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarySEARCH.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ceilingOFnumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ceilingOFnumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/evenNumbedigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/evenNumbedigit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/floorOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/floorOfNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mimimumDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mimimumDigit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/orderAgnosticBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/orderAgnosticBinary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pekInMountainArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pekInMountainArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/positionInInfinITEArary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/positionInInfinITEArary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/richestCostomerProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/richestCostomerProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rotatedSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rotatedSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/searchIn2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/searchIn2DArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677309346677</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sorting">
+      <created>1677335593644</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677335593644</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
