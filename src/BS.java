@@ -3,8 +3,6 @@ public class BS {
       int[] arr= {1,2,3,5,7,89};
       int target = 89;
       System.out.println(search(arr, target, 0,arr.length - 1));
-
-
     }
     static int search(int[] arr,int target, int s ,int e){
         if(s>e){
@@ -18,8 +16,5 @@ public class BS {
             return search(arr, target, s, m-1);
         }
         return search(arr,target, m+1, e);
-
     }
-
-
 }
