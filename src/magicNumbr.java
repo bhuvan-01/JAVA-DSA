@@ -5,13 +5,11 @@ public class magicNumbr {
         int base = 5;
 
         while(n>0){
-            int last = n&1;
+            int last = n & 1;
             n = n>>1;
 
             ans += last*base;
             base = base * 5;
-
-
         }
         System.out.println(ans);
     }
