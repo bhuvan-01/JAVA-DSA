@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9381b76-0846-49af-a341-ebef1f5a296b" name="Changes" comment="sorting qads">
-      <change afterPath="$PROJECT_DIR$/src/primeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarSearchSQRT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCD_LCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewtonSQRT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/flippingAnImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flippingAnImage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/Users/bhuva/OneDrive/Desktop/JAVA Dsa/javaSearching",
+    "last_opened_file_path": "C:/Users/bhuva/OneDrive/Desktop/JAVA Dsa",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
@@ -122,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678025121628</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="sorting qads">
+      <created>1678028766175</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678028766175</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
